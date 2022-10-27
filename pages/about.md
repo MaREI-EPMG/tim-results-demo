@@ -1,3 +1,3 @@
 # Energy Study
 
-Text about the study...
+This text has been added to show how to modify the about page.
