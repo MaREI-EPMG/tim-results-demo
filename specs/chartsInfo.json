@@ -54,6 +54,19 @@
     ],
     "unit": "PJ"
   },
+  "AGR_FEC-copy": {
+    "seriesNames": [
+      "AGRDST",
+      "AGRELC",
+      "AGRLPG"
+    ],
+    "colorScale": [
+      "#C0A5FF",
+      "#F2CD60",
+      "#0BC135"
+    ],
+    "unit": "PJ"
+  },
   "IND_Emissions-CO2": {
     "seriesNames": [
       "DMD_IND-CAF",
