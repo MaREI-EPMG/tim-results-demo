@@ -193,6 +193,6 @@
   },
   {
     "path": "agriculture",
-    "charts": ["AGR_FEC"]
+    "charts": ["AGR_FEC", "AGR_FEC-copy"]
   }
 ]
